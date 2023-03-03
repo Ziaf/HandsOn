@@ -1,8 +1,8 @@
 # HandsOn
 Contains the code for different hands on demontrated.
 ## emojify
-1. 
-2.
+1. Download glove embedding from https://www.kaggle.com/datasets/subrata2019/glovedata
+2. 
 
 ## SeqToSeq
 1. Data will be dowloaded directly using pytorch library "from torchtext.datasets import Multi30k", in the seq2seq.py script
