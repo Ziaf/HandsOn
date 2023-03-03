@@ -1,5 +1,9 @@
 # HandsOn
 Contains the code for different hands on demontrated.
+## emojify
+1. 
+2.
+
 ## SeqToSeq
 1. Data will be dowloaded directly using pytorch library "from torchtext.datasets import Multi30k", in the seq2seq.py script
 2. Demonstartion can be found in .ipynb file
