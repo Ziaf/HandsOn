@@ -1,5 +1,5 @@
 # HandsOn
-Reo Contains the code for different hands-on demontrated.
+Repo Contains the code for different hands-on demontrated.
 
 
 ## emojify
