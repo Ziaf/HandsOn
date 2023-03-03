@@ -2,7 +2,7 @@
 Repo Contains the code for different hands-on demontrated.
 
 
-## emojify
+## Emojify
 1. Download glove embedding from https://www.kaggle.com/datasets/subrata2019/glovedata and put it in the emojify folder before running the code.
 2. Emojify demo is in emojify_notebook.ipynb .
 
